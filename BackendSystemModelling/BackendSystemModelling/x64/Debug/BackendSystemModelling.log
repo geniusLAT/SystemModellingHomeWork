@@ -1,5 +1,5 @@
 ﻿  BackendSystemModelling.cpp
-E:\ImportantBackUp\Учёба\3 курс\3 курс 6 семестр\Моделировани систем\SystemModellingHomeWork\BackendSystemModelling\BackendSystemModelling\BackendSystemModelling.cpp(13,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-E:\ImportantBackUp\Учёба\3 курс\3 курс 6 семестр\Моделировани систем\SystemModellingHomeWork\BackendSystemModelling\BackendSystemModelling\BackendSystemModelling.cpp(25,45): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
-E:\ImportantBackUp\Учёба\3 курс\3 курс 6 семестр\Моделировани систем\SystemModellingHomeWork\BackendSystemModelling\BackendSystemModelling\BackendSystemModelling.cpp(25,42): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\ImportantBackUp\Учёба\3 курс\3 курс 6 семестр\Моделировани систем\SystemModellingHomeWork\BackendSystemModelling\BackendSystemModelling\BackendSystemModelling.cpp(21,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\ImportantBackUp\Учёба\3 курс\3 курс 6 семестр\Моделировани систем\SystemModellingHomeWork\BackendSystemModelling\BackendSystemModelling\BackendSystemModelling.cpp(33,45): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\ImportantBackUp\Учёба\3 курс\3 курс 6 семестр\Моделировани систем\SystemModellingHomeWork\BackendSystemModelling\BackendSystemModelling\BackendSystemModelling.cpp(33,42): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
   BackendSystemModelling.vcxproj -> E:\ImportantBackUp\Учёба\3 курс\3 курс 6 семестр\Моделировани систем\SystemModellingHomeWork\BackendSystemModelling\x64\Debug\BackendSystemModelling.exe

@@ -2,15 +2,23 @@
 //
 
 #include <iostream>
-
+#include <random>
+using namespace std;
 
 
 float* GenerateRandoms(int HowMuch, int from, int to) {
+    random_device rd;   // non-deterministic generator
+    mt19937 gen(rd());  // to seed mersenne twister.
+    uniform_int_distribution<> dist(1, 10000); // distribute results between 1 and 6 inclusive.
+
+
+
+
     float* res = new float[HowMuch];
     int delta = to - from;
     for (int i = 0; i < HowMuch; i++)
     {
-       float x = (rand() % (1001*delta)) / 1000.0;
+       float x = (dist(gen) % (1001 * delta)) / 1000.0;
        
        res[i] = from+x;
     }
